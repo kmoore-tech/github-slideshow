@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Nicki Minaj is the Queen of Rap.
 Use the left arrow to go back!
